@@ -1,1 +1,3 @@
 setuptools
+langchain_community
+pypdf
