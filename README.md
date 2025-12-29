@@ -6,6 +6,8 @@ An end-to-end Retrieval-Augmented Generation (RAG) application that ingests invo
 
 [What is Retrieval-Augmented Generation (RAG) ?](https://www.geeksforgeeks.org/nlp/what-is-retrieval-augmented-generation-rag/)
 
+[Advanced RAG: Architecture, techniques, applications and use cases and development](https://www.leewayhertz.com/advanced-rag/)
+
 - document has table, how you convert table to sentances and which package will be used
 - pdf plumber of camlet
 - how to extract table from pdf and convert to sentances
@@ -39,3 +41,5 @@ An end-to-end Retrieval-Augmented Generation (RAG) application that ingests invo
 - chunking
 - embedding
 - Retrival
+
+![RAG Architecture](doc/img/architecture.jpeg)
