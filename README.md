@@ -42,4 +42,4 @@ An end-to-end Retrieval-Augmented Generation (RAG) application that ingests invo
 - embedding
 - Retrival
 
-![RAG Architecture](doc/img/architecture.jpeg)
+![RAG Architecture](/doc/img/rag_architecture.jpeg)
