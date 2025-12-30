@@ -43,3 +43,17 @@ An end-to-end Retrieval-Augmented Generation (RAG) application that ingests invo
 - Retrival
 
 ![RAG Architecture](/doc/img/rag_architecture.jpeg)
+
+# Unit Test
+
+Run all unit tests with coverage:
+
+```sh
+pytest
+```
+
+or with converage reporting:
+
+```sh
+pytest --cov=parquet --cov-report=term-missing
+```
