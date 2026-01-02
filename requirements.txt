@@ -1,0 +1,6 @@
+setuptools
+langchain_community
+pypdf
+pdfplumber
+pandas
+pytest
